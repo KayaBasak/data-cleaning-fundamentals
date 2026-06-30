@@ -120,7 +120,7 @@ Bring together all the techniques from the previous articles by building a compl
 * Validation
 * Saving cleaned data
 
-🔗 *Medium Article:* [![Medium](https://img.shields.io/badge/Medium-Read%20Article-black?logo=medium)](Add link)
+🔗 *Medium Article:* [![Medium](https://img.shields.io/badge/Medium-Read%20Article-black?logo=medium)](https://medium.com/@bskky001/data-cleaning-fundamentals-building-a-reproducible-data-cleaning-pipeline-60f7aaac7feb)
 
 ---
 
