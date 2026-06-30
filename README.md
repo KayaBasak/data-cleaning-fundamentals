@@ -152,15 +152,6 @@ The notebook serves as a practical companion to the blog series, showing how the
 ```text
 data-cleaning-fundamentals/
 │
-├── blogs/
-│   ├── part-1-understanding-data-quality-problems.md
-│   ├── part-2-finding-and-handling-missing-values.md
-│   ├── part-3-detecting-and-removing-duplicate-records.md
-│   ├── part-4-identifying-and-treating-outliers.md
-│   ├── part-5-standardizing-text-dates-and-categories.md
-│   ├── part-6-fixing-data-types-and-formatting-issues.md
-│   └── part-7-building-a-reproducible-data-cleaning-pipeline.md
-│
 ├── notebooks/
 │   └── data_cleaning_pipeline.ipynb
 │
